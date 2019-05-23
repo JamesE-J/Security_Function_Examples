@@ -1,0 +1,7 @@
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe.config
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.pdb
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csprojResolveAssemblyReference.cache
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CoreCompileInputs.cache
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.exe
+C:\Users\James Edmondson-Jone\Documents\Uni Work\Distributed Computing\Securoteck Skeleton Solution\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.pdb
